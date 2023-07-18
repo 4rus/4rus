@@ -15,9 +15,6 @@ I'm currently learning Python<br>I have learned Javascript, Html and CSS<br>I am
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=4rus&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=4rus&icon=0&color=0)](https://visitcount.itsvg.in)
 
