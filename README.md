@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Python<br>I have learned Javascript, Html and CSS<br>I am a 16 year old programmer<br>
+
 
 
 ## 🌐 Socials:
