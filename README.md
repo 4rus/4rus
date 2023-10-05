@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Learning Jupyter Notebook<br>16 he/him<br>
+learning Web VR <br>16 he/him<br>
 
 
 ## 🌐 Socials:
