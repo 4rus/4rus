@@ -1,5 +1,5 @@
 # 💫 About Me:
-learning Web VR <br>16 he/him<br>
+👋<br><br>
 
 
 ## 🌐 Socials:
