@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hello! 👋
-- I am a young coder with big dreams. 
-- I can make anything from a scale graph to a full form app! 
+Hello! 👋 
 - I have 3+ years of experience in the languages, libraries and frameworks listed below!
 <br><br>
 
