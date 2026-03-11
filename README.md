@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hello! 👋 
-- I have 3+ years of experience in the languages, libraries and frameworks listed below!
 <br><br>
 
 # 💻 Skills:
