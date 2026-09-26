@@ -12,7 +12,7 @@
 
 <br>
 
-I've been coding since 2020, when I started out making small JavaScript games. Now I mostly build web apps for businesses, and lately I've gotten really into fintech. I like software where the numbers have to be exactly right and still make sense to someone who isn't an accountant.
+I've been coding since 2020, when I started out making small JavaScript games. Now I mostly build web apps for businesses, and lately I've been getting into fintech.
 
 **Right now** I'm building Indimoe and working on connecting it to people's bank accounts.<br>
 **At work** I'm a developer at GNC Group, building internal tools for the team.<br>
