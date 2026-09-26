@@ -1,27 +1,38 @@
-# Hi, I'm Bhawani 👋
+## Hey, I'm Bhawani 👋
 
-First-year Computer Science student at the **University of Calgary**, software developer at **GNC Group**, and founder of **[Indimoe](https://www.indimoe.com)**.
+I'm a first-year Computer Science student at the University of Calgary. Outside of class I work as a software developer at GNC Group, and I'm building my own company, [Indimoe](https://www.indimoe.com).
 
-I build full-stack web apps for real businesses — mostly around money, operations, and turning messy data into something useful.
+I started coding back in 2020 making little JavaScript games. These days I mostly build web apps for real businesses, and I've found I really like the problems that come up when software has to deal with money: numbers that have to be exactly right, records that need to add up, and making all of that easy for people who aren't accountants.
 
----
+- 🌱 Currently building **Indimoe** and working on its bank connections
+- 🏗️ At work, building internal tools for a Calgary construction consulting firm
+- 🎓 Learning the CS fundamentals at UCalgary
+- 💬 Happy to talk about fintech, Next.js, or turning messy spreadsheets into real software
 
-### 🚀 What I'm working on
+<br>
 
-**[Indimoe](https://www.indimoe.com)** — financial software for small business owners who aren't accountants.
-Instead of a ledger, it tells you what changed in your business, why, and what to do about it. Built with a journal-based ledger engine, bank reconciliation, invoicing and AI receipt scanning, and backed by 500+ automated tests.
-*Next.js · TypeScript · PostgreSQL · Prisma* — code is private.
+### What I'm building
 
-### 💼 Selected work
+**[Indimoe](https://www.indimoe.com)** is financial software for small business owners. Most accounting tools show you a ledger and leave you to figure it out. Indimoe tells you what changed in your business, why it happened, and what to do next.
 
-| Project | What it is | Stack |
-|---|---|---|
-| **GNC Group internal platform** | Staff dashboard for tracking claims and team tasks, plus AI tools that turn scanned construction invoices into accounting spreadsheets | React · Supabase · Python · Claude API |
-| **[Panelopia](https://panelopia.com)** ([code](https://github.com/4rus/panelopia)) | Website and lead CRM for a Calgary / Edmonton wall-panel company | Next.js · Supabase · Resend |
-| **[Panelopia landing page](https://panelopia-landing-page.vercel.app)** ([code](https://github.com/4rus/panelopia-landing-page)) | Google Ads / SEO landing page that sends quote requests into the same CRM | Next.js · Supabase |
-| **SwiftClean** | Operations and invoicing app for a multi-store cleaning company — jobs, staff, photo checklists, PDF invoices | Next.js · Supabase |
+Under the hood it has a proper double-entry ledger, bank reconciliation, invoicing and receipt scanning. Every number it shows is calculated straight from your real transactions, never guessed by AI. It's a business, so the code is private, but I'm always happy to walk through how it works.
 
-### 🛠️ Tech I use
+<br>
+
+### Other things I've worked on
+
+**GNC Group internal tools** · *React, Supabase, Python*
+A dashboard the team uses to track claims and tasks, plus a tool that reads scanned construction invoices and turns them into the firm's accounting spreadsheets.
+
+**[Panelopia](https://panelopia.com)** · *Next.js, Supabase* · [code](https://github.com/4rus/panelopia)
+The website and lead system for a wall-panel company with showrooms in Calgary and Edmonton. I also built a separate [landing page](https://panelopia-landing-page.vercel.app) for their Google Ads ([code](https://github.com/4rus/panelopia-landing-page)).
+
+**SwiftClean** · *Next.js, Supabase*
+The app a local cleaning company runs on day to day: jobs, staff, photo checklists and invoices, all from a phone.
+
+<br>
+
+### Tools I use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -33,8 +44,9 @@ Instead of a ledger, it tells you what changed in your business, why, and what t
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-### 📫 Get in touch
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/bhawani-singh-42a9083a7/) · [bhawanis9312@gmail.com](mailto:bhawanis9312@gmail.com) · [indimoe.com](https://www.indimoe.com)
+### Say hi
+
+The easiest way to reach me is on [LinkedIn](https://www.linkedin.com/in/bhawani-singh-42a9083a7/) or at [bhawanis9312@gmail.com](mailto:bhawanis9312@gmail.com). If you're working on something in fintech, or just want to swap notes on building products as a student, I'd love to hear from you.
