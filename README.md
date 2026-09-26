@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Bhawani 👋
+# Hey, I'm Bhawani
 
 **CS student @ University of Calgary · Software Developer @ GNC Group · Founder of [Indimoe](https://www.indimoe.com)**
 
@@ -12,16 +12,15 @@
 
 <br>
 
-I started coding in 2020 making little JavaScript games. These days I build web apps for real businesses, and the problems I enjoy most are the ones where software has to handle money: numbers that have to be exactly right, records that have to add up, and making all of it simple for people who aren't accountants.
+I've been coding since 2020, when I started out making small JavaScript games. Now I mostly build web apps for businesses, and lately I've gotten really into fintech. I like software where the numbers have to be exactly right and still make sense to someone who isn't an accountant.
 
-- 🌱 Building **Indimoe** and working on its bank connections
-- 🏗️ Building internal tools for a Calgary construction consulting firm
-- 🎓 First year of Computer Science at UCalgary
-- 💬 Always up for a chat about fintech, Next.js, or turning messy spreadsheets into real software
+**Right now** I'm building Indimoe and working on connecting it to people's bank accounts.<br>
+**At work** I'm a developer at GNC Group, building internal tools for the team.<br>
+**At school** I'm in my first year of Computer Science at UCalgary.
 
 <br>
 
-## 🚀 What I'm building
+## What I'm building
 
 > ### [Indimoe](https://www.indimoe.com)
 > Financial software for small business owners who aren't accountants. Instead of handing you a ledger, it tells you what changed in your business, why, and what to do next.
@@ -34,7 +33,7 @@ I started coding in 2020 making little JavaScript games. These days I build web 
 
 <br>
 
-## 💼 Selected work
+## Selected work
 
 | Project | What it is | Built with |
 |:---|:---|:---|
@@ -45,7 +44,7 @@ I started coding in 2020 making little JavaScript games. These days I build web 
 
 <br>
 
-## 🛠️ Tools I use
+## Tools I use
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
