@@ -63,6 +63,4 @@ I've been coding since 2020, when I started out making small JavaScript games. N
 
 <div align="center">
 
-*If you're working on something in fintech, or just want to swap notes on building products as a student, I'd love to hear from you.*
-
 </div>
